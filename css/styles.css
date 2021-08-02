@@ -68,6 +68,15 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+textarea {
+  box-sizing: content-box;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 120px;
+  width: 300px;
+  margin-left: -50px;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -337,6 +346,7 @@ th {
 
 label {
   display: inline-block;
+  display: block;
 }
 
 button {
@@ -11435,4 +11445,8 @@ html {
 .contact-button {
   margin: 50px auto;
   display: block;
+}
+
+#contact-form {
+  margin-left: 475px;
 }
