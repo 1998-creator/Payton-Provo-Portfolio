@@ -473,6 +473,10 @@
             <img class="img-fluid" src="assets/img/portfolio/halloween.png" alt="..." />
           </div>
         </div>
+        <form>
+          <button type="submit" class="contact-button" id="more-button" formaction="more.html">See More</button>
+       </form>
+        
   </section>
   <!-- About Section-->
   <section class="page-section bg-primary text-white mb-0" id="about">
@@ -566,14 +570,14 @@
       <body>
         <form id="contact-form">
           <input type="hidden" name="contact_number">
-          <label>Name</label>
-          <input type="text" name="user_name">
-          <label>Email</label>
-          <input type="email" name="user_email">
-          <label>Message</label>
-          <textarea name="message"></textarea>
+          <label class="content-label">Name</label>
+          <input class="content-label" type="text" name="user_name">
+          <label class="content-label">Email</label>
+          <input class="content-label" type="email" name="user_email">
+          <label class="content-label">Message</label>
+          <textarea class="content-label" name="message"></textarea>
           <br>
-          <input class="contact-button" type="submit" value="Email me">
+          <input id="content-label" class="contact-button" type="submit" value="Email me">
         </form>
       </body>
     </div>

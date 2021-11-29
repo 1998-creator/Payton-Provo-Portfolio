@@ -55,4 +55,5 @@ window.addEventListener('DOMContentLoaded', event => {
 
 function send() {
     window.open('mailto:paytonprovo1@gmail.com');
-  }
+}
+
