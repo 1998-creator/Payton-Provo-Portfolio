@@ -11492,3 +11492,9 @@ html {
   margin-left: 20px;
   margin-top: 20px;
 }
+
+#more-header {
+  background-color: #1abc9c;
+  padding: 2rem;
+  color: white !important;
+}
