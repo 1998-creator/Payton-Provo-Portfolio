@@ -11498,3 +11498,75 @@ html {
   padding: 2rem;
   color: white !important;
 }
+
+@media (min-width: 400px) {
+  #more-button {
+    margin-left: 215px;
+  }
+}
+
+@media (min-width: 576px) {
+  #more-button {
+    margin-left: 215px;
+  }
+}
+
+@media (min-width: 768px) {
+  #more-button {
+    margin-left: 300px;
+  }
+}
+
+@media (min-width: 992px) {
+  #more-button {
+    margin-left: 440px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #more-button {
+    margin-left: 515px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #more-button {
+    margin-left: 600px;
+  }
+}
+
+@media (min-width: 400px) {
+  #contact-form {
+    margin-left: 215px;
+  }
+}
+
+@media (min-width: 576px) {
+  #contact-form {
+    margin-left: 215px;
+  }
+}
+
+@media (min-width: 768px) {
+  #contact-form {
+    margin-left: 300px;
+  }
+}
+
+@media (min-width: 992px) {
+  #contact-form {
+    margin-left: 440px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #contact-form {
+    margin-left: 515px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #contact-form {
+    margin-left: 600px;
+  }
+}
