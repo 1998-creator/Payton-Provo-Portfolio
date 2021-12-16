@@ -11444,6 +11444,7 @@ html {
 
 .contact-button {
   background-color: #1abc9c;
+  color: white;
   padding: 0.5rem;
   font-size: 1rem;
   border-radius: 0.5rem;
@@ -11463,7 +11464,7 @@ html {
 
 #more-button {
   margin-left: 600px;
-  color: #000;
+  color: white;
   text-decoration: none;
   background-color: #1abc9c;
   padding: 0.5rem;
